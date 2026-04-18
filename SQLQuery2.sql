@@ -1,0 +1,4 @@
+﻿Create Table Table1(
+Id INT PRIMARY KEY IDENTITY,
+Name VARCHAR(200) NOT NULL
+)
